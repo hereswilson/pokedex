@@ -1,3 +1,3 @@
-module github.com/hereswilson/pokedexcli
+module github.com/hereswilson/pokedex
 
 go 1.20
